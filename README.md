@@ -62,6 +62,10 @@ prune=10000  # Keeps ~10GB of blocks
 # Pruning activates after block 10,000 since v0.2.3 (was 100,000 before).
 ```
 
+## License
+
+This Fractal Bitcoin mainnet release repository is available under the [MIT License](./LICENSE), with the license notice listing TroyAnthonyDupreJunor.
+
 ## Build Fractal Bitcoin
 
 The following are developer notes on how to build Bitcoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
